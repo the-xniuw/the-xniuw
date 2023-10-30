@@ -1,7 +1,7 @@
 # Welcome to [Aswin Barath's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 &nbsp;
-<a href="https://twitter.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/AswinBarath2" target="_blank"><img align="center" src="https://media.discordapp.net/attachments/921465346010001438/1168530524797677579/twitter.png?ex=655219db&is=653fa4db&hm=f985c5603e48155773e205d8636e25dfa657886fa2cb46f0f307d892a8f4333f&=&width=563&height=563" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 &nbsp;
