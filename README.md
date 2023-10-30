@@ -17,12 +17,13 @@ I own a company named ProjectX, if you would like to check it out, make sure to 
 <img align="right" alt="GIF" src="https://media.itsnicethat.com/original_images/yiting-nan-YN_SVA_Motion_Screening_2022_02.gif" width="408" height="318" />
 
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Young Designing Student**
 - 🌱 I'm currently advancing my skills:
   - Drawing
-  - My Skills In Photoshop
+  - In Photoshop
+  - Editing Short Form Content
 - 👯 Join [ProjectX's Discord Server](https://discord.gg/xQzGFbD7cS)
 - 📬 How to reach me: xniuw on Discord
 
