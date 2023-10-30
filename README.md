@@ -10,15 +10,11 @@
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here!
+Hey there, I'm a young designer, I have knowledge in things such as Roblox Developing, and I'm partially able to script, if you would like to check out any of my work, click on of my socials above.
+I own a company named ProjectX, if you would like to check it out, make sure to click the Discord icon above.
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
-
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itsnicethat.com%2Farticles%2Fyiting-nan-discover-animation-020323&psig=AOvVaw3hrAYZ3dnAbtc-LCfdqMkR&ust=1698756638356000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjR-OHnnYIDFQAAAAAdAAAAABAE" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
