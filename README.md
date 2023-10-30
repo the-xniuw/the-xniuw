@@ -1,7 +1,7 @@
 # Welcome to [xNiuw's](https://the-xniuw.github.io/) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 &nbsp;
-<a href="https://twitter.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/xniuw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xNiuw" height="30" width="40" /></a>
 &nbsp;
 <a href="https://discord.gg/xQzGFbD7cS" target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="ProjectX Discord Server" height="30" width="30" /></a>
 &nbsp;
@@ -14,7 +14,7 @@
 Hey there, I'm a young designer, I have knowledge in things such as Roblox Developing, and I'm partially able to script, if you would like to check out any of my work, click on of my socials above.
 I own a company named ProjectX, if you would like to check it out, make sure to click the Discord icon above.
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itsnicethat.com%2Farticles%2Fyiting-nan-discover-animation-020323&psig=AOvVaw3hrAYZ3dnAbtc-LCfdqMkR&ust=1698756638356000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjR-OHnnYIDFQAAAAAdAAAAABAE" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media.itsnicethat.com/original_images/yiting-nan-YN_SVA_Motion_Screening_2022_02.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
